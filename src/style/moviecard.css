@@ -1,0 +1,14 @@
+
+
+.poster {
+    width: auto;
+    height: 400px !important;
+}
+
+li {
+    list-style: none;
+}
+
+.poster-frame {
+    width: 29% !important;
+}
