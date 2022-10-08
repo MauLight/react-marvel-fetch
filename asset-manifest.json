@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-marvel-fetch/static/css/main.e0d090d8.css",
+    "main.js": "/react-marvel-fetch/static/js/main.9274d006.js",
+    "static/media/marvel.ico": "/react-marvel-fetch/static/media/marvel.c142bf3a96086accf931.ico",
+    "index.html": "/react-marvel-fetch/index.html",
+    "main.e0d090d8.css.map": "/react-marvel-fetch/static/css/main.e0d090d8.css.map",
+    "main.9274d006.js.map": "/react-marvel-fetch/static/js/main.9274d006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d090d8.css",
+    "static/js/main.9274d006.js"
+  ]
+}
