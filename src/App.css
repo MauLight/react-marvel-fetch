@@ -16,7 +16,7 @@
 .wrapper {
   width: 900px;
   margin-top: 20px;
-  background-color: rgba(255, 255, 255, .1);
+  background-color: rgba(255, 255, 255, .2);
   box-shadow: 0 0 5px;
   backdrop-filter: blur(10px);
   color: white;
@@ -28,7 +28,7 @@
 
 .btn-change:hover {
   background-color: #ed171f;
-  color: white;
+  color: white !important;
 }
 
 .btn-change {
