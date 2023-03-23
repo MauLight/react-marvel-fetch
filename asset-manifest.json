@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/react-marvel-fetch/static/css/main.d44d4031.css",
-    "main.js": "/react-marvel-fetch/static/js/main.5d05f55b.js",
-    "static/media/marvel.ico": "/react-marvel-fetch/static/media/marvel.c142bf3a96086accf931.ico",
+    "main.css": "/react-marvel-fetch/static/css/main.2306bbae.css",
+    "main.js": "/react-marvel-fetch/static/js/main.207755d3.js",
     "static/media/Marvel_Logo.svg.png": "/react-marvel-fetch/static/media/Marvel_Logo.svg.c62c859021025ac58899.png",
     "index.html": "/react-marvel-fetch/index.html",
-    "main.d44d4031.css.map": "/react-marvel-fetch/static/css/main.d44d4031.css.map",
-    "main.5d05f55b.js.map": "/react-marvel-fetch/static/js/main.5d05f55b.js.map"
+    "main.2306bbae.css.map": "/react-marvel-fetch/static/css/main.2306bbae.css.map",
+    "main.207755d3.js.map": "/react-marvel-fetch/static/js/main.207755d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d44d4031.css",
-    "static/js/main.5d05f55b.js"
+    "static/css/main.2306bbae.css",
+    "static/js/main.207755d3.js"
   ]
 }
