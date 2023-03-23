@@ -1,5 +1,7 @@
 @import './style/moviecard.css';
 @import './style/navbar.css';
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Molengo&display=swap');
 
 body {
   margin: 0;
@@ -13,4 +15,21 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.description {
+  font-family: 'Crimson Text', serif;
+}
+
+.title {
+  font-family: 'Molengo', sans-serif;
+  font-size: 30px;
+}
+
+.marvel {
+  background-color: #ed171f !important;
+}
+
+.home {
+  color: white !important;
 }

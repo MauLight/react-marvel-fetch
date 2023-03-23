@@ -34,7 +34,7 @@ const MovieCard2 = () => {
         }
     }
 
-   // console.log(movies.results)
+    // console.log(movies.results)
 
 
     return (
@@ -51,8 +51,8 @@ const MovieCard2 = () => {
                                     </div>
                                     <div className="col-md-8">
                                         <div className="card-body">
-                                            <h1 className="card-title">{movie.original_title}</h1>
-                                            <p className="card-text">{movie.overview}</p>
+                                            <h1 className="card-title title">{movie.original_title.toUpperCase()}</h1>
+                                            <p className="card-text description">{movie.overview}</p>
                                             <p className="card-text">Release date: {movie.release_date}</p>
                                             <p className="card-text">Popularity: {movie.popularity}</p>
                                             <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>

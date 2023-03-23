@@ -47,9 +47,9 @@ const MovieCard = () => {
                                         <img src={config.URL_IMG + movie.poster_path} className="poster img-fluid rounded-start" alt="..." />
                                     </div>
                                     <div className="col-md-8">
-                                        <div className="card-body">
-                                            <h1 className="card-title">{movie.original_title}</h1>
-                                            <p className="card-text">{movie.overview}</p>
+                                        <div className="card-body mt-4 px-4">
+                                            <h1 className="card-title title">{movie.original_title.toUpperCase()}</h1>
+                                            <p className="card-text description">{movie.overview}</p>
                                             <p className="card-text">Release date: {movie.release_date}</p>
                                             <p className="card-text">Popularity: {movie.popularity}</p>
                                             <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
@@ -68,4 +68,6 @@ const MovieCard = () => {
 }
 
 export default MovieCard;
+
+
 
