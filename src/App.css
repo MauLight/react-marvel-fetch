@@ -22,6 +22,10 @@
   color: white;
 }
 
+.wrapper:hover {
+  background-color: #ed171f !important;
+}
+
 .btn-change:hover {
   background-color: #ed171f;
   color: white;
