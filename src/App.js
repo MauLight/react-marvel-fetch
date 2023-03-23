@@ -1,9 +1,8 @@
-
 import './App.css';
 import MovieCard from './components/moviecard';
 import Navbar from './components/navbar';
 
-function Page1() {
+function App() {
 
   return (
     <div className="App">
@@ -13,4 +12,4 @@ function Page1() {
   );
 }
 
-export default Page1;
+export default App;
