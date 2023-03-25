@@ -20,11 +20,15 @@
   box-shadow: 0 0 5px;
   backdrop-filter: blur(10px);
   color: white;
+
+  transition: all 0.4s ease !important;
 }
 
 .wrapper:hover {
+  transform: translateY(-2px);
   background-color: #ed171f !important;
 }
+
 
 .btn-change:hover {
   background-color: #ed171f;

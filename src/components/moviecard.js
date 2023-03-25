@@ -25,7 +25,7 @@ const MovieCard = () => {
         try {
             const response = await fetch(url, options_get);
             const data = await response.json();
-            console.log(data);
+            //console.log(data);
 
             setMovies(data.results);
 
